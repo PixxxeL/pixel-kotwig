@@ -6,5 +6,5 @@
  * @author  Ivan Sergeev <ivan.n.sergeev@gmail.com>
  */
 
-require_once Kohana::find_file('vendor', 'Twig/lib/Twig/Autoloader');
+require_once Kohana::find_file('vendor', 'lib/Twig/Autoloader');
 Twig_Autoloader::register();
